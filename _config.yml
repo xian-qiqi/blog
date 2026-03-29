@@ -6,15 +6,14 @@
 title: myblog
 subtitle: '个人博客'
 description: '个人生活记录'
-keywords: Xqi123456
+keywords:
 author: isqiqia
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
-# url: https://xxx.netlify.app # 你的Netlify域名,暂时没有
+url: https://isxianqiqibloga.netlify.app/ # 你的Netlify域名,暂时没有
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -98,7 +97,10 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+# theme: magzine
+# theme: landscape
+theme: butterfly
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
